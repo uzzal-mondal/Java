@@ -46,7 +46,8 @@
 -	Variable er sathe data gulo rakte pari.
 
 ``` 
-## First step
+*	First step
+
 Teacher teacher1 = new Teacher();
 teacher1.teacherInfo("Anisul","CSE",25);
 teacher1.displayInfo();
@@ -71,7 +72,7 @@ teacher1.displayInfo();
 
 
 
-## Second step:- 
+*	Second step:- 
 
  //variable create:
  String name;
