@@ -31,9 +31,9 @@
 
 # OOP : 2
 # Introducing method
-<summary>Title 1</summary> Method(){} – akoi dhoroner programming er jonno Jodi amra kono akta jinish bar bar  kaj korte chai tahole amra oop te  mehod use korbo.
+ - Method(){} – akoi dhoroner programming er jonno Jodi amra kono akta jinish bar bar  kaj korte chai tahole amra oop te  mehod use korbo.
 
-Class: class a amra variable then method use kori. Variable use korle onek gulo println use korte hoy, but-   bar bar call korte hoyna just call method call korle hoye jai.  Class a variable er thke method use flexible . 
+- Class: class a amra variable then method use kori. Variable use korle onek gulo println use korte hoy, but-   bar bar call korte hoyna just call method call korle hoye jai.  Class a variable er thke method use flexible . 
 OOP : 03
 Parametrized method
 1.	Parameter method use kore amra sob gulo data set  korte pari. 
