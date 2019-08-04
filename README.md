@@ -20,8 +20,8 @@
 
 
 # Learn class & object: -  
-* Nested bullet	Create class > class er moddhe variable declare > sei class er object onno class a declare  korte hoy 
-2.	 object er maddhome kivabe akti class er variable use korte hoy.
+*		Create class > class er moddhe variable declare > sei class er object onno class a declare  korte hoy 
+*		object er maddhome kivabe akti class er variable use korte hoy.
 
 
 
