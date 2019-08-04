@@ -363,51 +363,62 @@ That’s menas user define method.
 
 
 # OOP 
-# Static: 
+## Static Keyword: 
+
+
 Why I am use to static keyword.
-Static keyword used to memory management. Static keyword use korar fole amara amder memory save korte pari. 
+*	Static keyword used to memory management. Static keyword use korar fole amara amder memory save korte pari. 
 
-Use to static :)
-1.	Static variable.
-	Instance variable er jonno alada jaiga nai , karon amader object call korte hoy. Value gulo alada thake. 
-	Akta static variable declare kori , setake call deaor projon hoyna, calss area ke refer kore , so that, no need for memory space 
-	Static variable use for use no need for create object , just realation to class just call class to main method..
-2.	Static block;
- static block execute hoy main method or age. 
- Main method kintuo almost necessary.
+## Use to static :)
+## Static variable.
+*	Instance variable er jonno alada jaiga nai , karon amader object call korte hoy. Value gulo alada thake. 
+*	Akta static variable declare kori , setake call deaor projon hoyna, calss area ke refer kore , so that, no need for memory space 
+*	Static variable use for use no need for create object , just realation to class just call class to main method..
+*	Static block;
+* 	static block execute hoy main method or age. 
+*	Main method kintuo almost necessary.
 
 
-3.	Static Method.
-main is static method , so that don't create or no need  a object in main method.
+## Static Method.
+*	main is static method , so that don't create or no need  a object in main method.
 
-static keyword use to static method declare.
+*	static keyword use to static method declare.
 
-static method no need for obj declare in main method, just use to relation in class.
+*	static method no need for obj declare in main method, just use to relation in class.
 
- static method er restriction ache,  static method er moddhe non static method declare kora jabena. amon ki non static variable o declare kora jabena.  
+*	static method er restriction ache,  static method er moddhe non static method declare kora jabena. amon ki non static variable o declare kora jabena.  
 but static hole static method er moddhe declare kora jabe. Static variable hole static method a declare kora jabe.
 
- non static method there is no  restriction, se static method access korte parbe… 
+*	non static method there is no  restriction, se static method access korte parbe… 
 
 
 
-
+***
 
 
 
 # OOP - 9
-# Static variable: part 1
-1.	If I any variable declare to static , that’s means final . non editable. 
+## Static variable: part 1
+*	If I any variable declare to static , that’s means final . non editable. 
 Static String uniName = “khulna Universitty”
-2.	No need for assign constructer parameter. 
-3.	Static variable call by main class er reference.
-4.	Static variable automatically call by reference. 
-5.	Static variable declare using no need for declare  object. Just use class name.static variable. 
-6.	Static string name = “uzzal”; -static
+
+*	No need for assign constructer parameter. 
+
+*	Static variable call by main class er reference.
+
+*	Static variable automatically call by reference. 
+
+*	Static variable declare using no need for declare  object. Just use class name.static variable. 
+
+
+```
+Static string name = “uzzal”; -static
+
 Test t = new Test(); - no need.
 staticv.name – need for direct print static.
 
 Step : 1
+
 public static void main(String args[]){
 
     Student std = new Student("Uzzal",01);
@@ -420,6 +431,7 @@ public static void main(String args[]){
 
 
 step:2
+
 package OOP;
 
 public class Student {
@@ -452,19 +464,22 @@ public class Student {
 
 }
 
+```
+
 
 # OOP - 10
-# Static variable: part 2
-1.	When a use to static variable must declare before to variable – static
+## Static variable: part 2
+-	When a use to static variable must declare before to variable – static
 static String uName = “DIU”
 
-2.	Static variable use for no need other class object with reference. 
+-	Static variable use for no need other class object with reference. 
 Student std = new Student();- no need
 
-3.	If you use to static variable , call to static variable class and use to  .(dot) with a static variable name.
+-	If you use to static variable , call to static variable class and use to  .(dot) with a static variable name.
 System.out. println(Student.uName);
        
 
+```
 Step: 1
   public static void main(String args[]){
 
@@ -486,30 +501,39 @@ public class Student {
 
 }
 
+```
 
 
-
-
+***
 
 
 
 # OOP - 11
 # Static variable: part 3
-1.	Non static variable declare for take an another memory space.
+-	Non static variable declare for take an another memory space.
+
+```
 int count = 0; // variable declare
+
 Student (){
 	count++;      //this call for constructer
 }
+
 Student std1 = new Student();
 System.out.println(std1.count) //print.
 Student std2= new Student();
 Student std3 = new Student();
 
-2.	Non static variable use kora hole , alada alda memory space use kore, jehetu amar count variable 0, to bere sekhane 1 hosse. Next joto variable pabe 0 theke 1 hobe. Every object count alada.
 
-3.	Static variable jokon declare korbo, tokon object er sathe relation nei.ti se default constructer ke pabe and initlize man 0 theke 1 barabe. Static variable object er sathe realtion nei just relation for a class.  Then call to method, firstly print 1 , jehetu static variable change noy tai second variable sathe 1 er sathe 1 count hobe, evabe 1, 1 kore joto obj pabe oi class er barte thakbe.
+```
 
+-	Non static variable use kora hole , alada alda memory space use kore, jehetu amar count variable 0, to bere sekhane 1 hosse. Next joto variable pabe 0 theke 1 hobe. Every object count alada.
+
+-	Static variable jokon declare korbo, tokon object er sathe relation nei.ti se default constructer ke pabe and initlize man 0 theke 1 barabe. Static variable object er sathe realtion nei just relation for a class.  Then call to method, firstly print 1 , jehetu static variable change noy tai second variable sathe 1 er sathe 1 count hobe, evabe 1, 1 kore joto obj pabe oi class er barte thakbe.
+
+```
 Ex: 1
+
 public static void main(String args[]){
 
 
@@ -524,6 +548,7 @@ public static void main(String args[]){
 
 }
 Ex: 2
+
 public class Student {
 
    static int count=  0;
@@ -543,7 +568,10 @@ Total student 2
 Total student 3
 
 
+```
 
+
+***
 
 
 
@@ -551,22 +579,27 @@ Total student 3
 
 
 # OOP : 12
-# Static Method.
+## Static Method.
 
 
-1.	Static method declare korte no need for object –  must need for a class.
+-	Static method declare korte no need for object –  must need for a class.
 Ex: teacher.showData(); 
 Teacher-class, 
 showData() – method.
 
-2.	Non static method declare to must be initlize object.  – firstly create class then class er object.
-Ex: Teacher t1 = new Teacher();
+-	Non static method declare to must be initlize object.  – firstly create class then class er object.
+
+```
+Ex: 
+
+Teacher t1 = new Teacher();
  T1   - object
 t1.showData();
 
 
 ex: 
 step:1
+
 public static void main(String args[]){
 
 
@@ -611,6 +644,9 @@ public class Student {
 
 }
 
+```
+
+***
 
 
 # OOP - 13
