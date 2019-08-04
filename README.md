@@ -46,7 +46,7 @@
 -	Variable er sathe data gulo rakte pari.
 
 First step
-` Teacher teacher1 = new Teacher();
+``` Teacher teacher1 = new Teacher();
 teacher1.teacherInfo("Anisul","CSE",25);
 teacher1.displayInfo();
 
@@ -95,7 +95,8 @@ Second step:-
       System.out.println(" age : "+age);
       System.out.println(" ");
 
- } `
+ } 
+ ```
 
 
 # OOP: - 04
