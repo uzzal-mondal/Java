@@ -136,6 +136,8 @@ teacher1.displayInfo();
  
 
 Step: 2
+
+
 //variable create:
  String name;
  String dept;
@@ -238,7 +240,7 @@ public class Teacher{
     }
     
  ```
-    
+***     
     
 # OOP : 6
 # Constructer Overloading
