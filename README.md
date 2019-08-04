@@ -103,9 +103,9 @@ teacher1.displayInfo();
 
 # OOP: - 04
 # Constructer
-Why constructer use: 
-Constructer use kora hoy ei karone – when I am create to object then can do it initialize  
-jokon object toiri kori take jano initialize korte pari 
+##	Why constructer use: 
+###	Constructer use kora hoy ei karone – when I am create to object then can do it initialize 
+jokon object toiri kori take jano initialize korte pari 
  
 1.	Constructer initialize kore akta object.
 2.	Constructer & class - same name hobe.
