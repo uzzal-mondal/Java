@@ -2,7 +2,7 @@
 
                                 #OOP
 # Tutorial – 1 -> Class & Object.
-1.Class:  class holo akti templeate jar maddhome amara onek gulo template create  korte pari.
+*	Class:  class holo akti templeate jar maddhome amara onek gulo template create  korte pari.
 
 
 
@@ -20,7 +20,7 @@
 
 
 # Learn class & object: -  
-1.	Create class > class er moddhe variable declare > sei class er object onno class a declare  korte hoy 
+* Nested bullet	Create class > class er moddhe variable declare > sei class er object onno class a declare  korte hoy 
 2.	 object er maddhome kivabe akti class er variable use korte hoy.
 
 
