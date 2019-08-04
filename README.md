@@ -120,6 +120,7 @@ teacher1.displayInfo();
  
 ``` 
 Step : 1
+
 Teacher teacher1 = new Teacher("Anisul islma","Cse",30);
 teacher1.displayInfo();
 
@@ -131,6 +132,8 @@ teacher1.displayInfo();
 
  Teacher teacher3 = new Teacher("Sudipto","CSE",22);
  teacher3.displayInfo();
+ 
+ 
 
 Step: 2
 //variable create:
@@ -165,23 +168,24 @@ Step: 2
 
 ```
 
-
+...
 
 
 # OOP : 5
-# Types of Constructer
-# 02 Types  are constructer, 
-1.	Default cons – j parameter er moddhe parameter thakbena default cons
-2.	 Parametirezed cons – j parmiter er moddhe parameter thakbe. Prametirezed cons.
-3.	03 ti  parameter constructer khujbe akti class er 03 ti parameter constructer k.
+## Types of Constructer
+### 02 Types  are constructer, 
+-	Default cons – j parameter er moddhe parameter thakbena default cons
+-	 Parametirezed cons – j parmiter er moddhe parameter thakbe. Prametirezed cons.
+-	03 ti  parameter constructer khujbe akti class er 03 ti parameter constructer k.
 
-4.	02 ti parameter constructer khujbe oi akoi class er 02 ti constructer er parameter k.
-5.	R Jodi kono faka constructer thake tahole se oi class er  default constructer ke find korbe.  Ter moddhe ja thakbe print korbe.  
+-	02 ti parameter constructer khujbe oi akoi class er 02 ti constructer er parameter k.
+*	R Jodi kono faka constructer thake tahole se oi class er  default constructer ke find korbe.  Ter moddhe ja thakbe print korbe.  
 
-6.	Jokon akta default parameter thakbe , r se jokon default constructer ke khujbe, r jokon na pabe, tokon compiler automatic default constructer ke call korbe..  
+*	Jokon akta default parameter thakbe , r se jokon default constructer ke khujbe, r jokon na pabe, tokon compiler automatic default constructer ke call korbe..  
 
-7.	R akon Jodi amra kono print korar jonno method call kori , ekhane amder jehetu data set kora nai, sehetu  ekhane amder default value null pabe. For string-null , int jonno - 0 ,  double er jono - 0.0
+*	R akon Jodi amra kono print korar jonno method call kori , ekhane amder jehetu data set kora nai, sehetu  ekhane amder default value null pabe. For string-null , int jonno - 0 ,  double er jono - 0.0
 
+```
 Example:
 Teacher teacher = new Teacher("Anisul sir","Khulna",30);
 teacher.displayShow();
@@ -232,6 +236,10 @@ public class Teacher{
         System.out.println("Day hour class : "+dClass);
         System.out.println("\n");
     }
+    
+ ```
+    
+    
 # OOP : 6
 # Constructer Overloading
 
@@ -295,7 +303,7 @@ void displayInfo(){
 
 # OOP - 7
 # Returning valu from method
-# akti method theke kivabe value return kora jai that’s means Returning value from method 
+# akti method theke kivabe value return kora jai that’s means Returning value from method 
 
 Example:
  Step – 1
