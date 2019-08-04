@@ -21,7 +21,9 @@
 
 # Learn class & object: -  
 *	Create class > class er moddhe variable declare > sei class er object onno class a declare  korte hoy 
+
 *	object er maddhome kivabe akti class er variable use korte hoy.
+
 *	Akti class er object create kore , sei class er properties gulo use korlam. Oi class er Multi properties o use korte pari oi akoi class er template er maddhome.
 
 
@@ -29,7 +31,7 @@
 
 # OOP : 2
 # Introducing method
-Method(){} – akoi dhoroner programming er jonno Jodi amra kono akta jinish bar bar  kaj korte chai tahole amra oop te  mehod use korbo.
+<summary>Title 1</summary> Method(){} – akoi dhoroner programming er jonno Jodi amra kono akta jinish bar bar  kaj korte chai tahole amra oop te  mehod use korbo.
 
 Class: class a amra variable then method use kori. Variable use korle onek gulo println use korte hoy, but-   bar bar call korte hoyna just call method call korle hoye jai.  Class a variable er thke method use flexible . 
 OOP : 03
