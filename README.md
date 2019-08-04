@@ -108,10 +108,10 @@ teacher1.displayInfo();
 
  
 -	Constructer initialize kore akta object.
-2.	Constructer & class - same name hobe.
-3.	Constructer k method bola hoy.
-4.	Return type & void don’t use.
-5.	Automatically call hoy.
+⋅⋅*	Constructer & class - same name hobe.
+⋅⋅*	Constructer k method bola hoy.
+⋅⋅*	Return type & void don’t use.
+⋅⋅*	Automatically call hoy.
 6.	Parameterized constructer.(cons thakbe)
 7.	Default constructer(cons thakbena).
 8.	Computer automatically call to default constructer.
