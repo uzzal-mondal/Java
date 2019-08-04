@@ -1,7 +1,7 @@
 # Java Master OOP Done
 
                                 #OOP
-#Tutorial – 1 -> Class & Object.
+# Tutorial – 1 -> Class & Object.
 #Class:  class holo akti templeate jar maddhome amara onek gulo template create  korte pari.
 
 
@@ -40,7 +40,7 @@
 
 
 
-OOP : 2
+# OOP : 2
 # Introducing method
 Method(){} – akoi dhoroner programming er jonno Jodi amra kono akta jinish bar bar  kaj korte chai tahole amra oop te  mehod use korbo.
 
@@ -108,8 +108,8 @@ Second step:-
  }
 
 
-OOP: - 04
-Constructer
+# OOP: - 04
+# Constructer
 Why constructer use: 
 Constructer use kora hoy ei karone – when I am create to object then can do it initialize  
 jokon object toiri kori take jano initialize korte pari 
@@ -174,8 +174,8 @@ Step: 2
 
 
 
-OOP : 5
-Types of Constructer
+# OOP : 5
+# Types of Constructer
 # 02 Types  are constructer, 
 1.	Default cons – j parameter er moddhe parameter thakbena default cons
 2.	 Parametirezed cons – j parmiter er moddhe parameter thakbe. Prametirezed cons.
@@ -238,8 +238,8 @@ public class Teacher{
         System.out.println("Day hour class : "+dClass);
         System.out.println("\n");
     }
-OOP : 6
-Constructer Overloading
+# OOP : 6
+# Constructer Overloading
 
 1.	Default cons -> two parameter cons ->Three parameter cons-> that’s means constructer overloading
 
@@ -299,8 +299,8 @@ void displayInfo(){
 
 
 
-OOP - 7
-Returning valu from method
+# OOP - 7
+# Returning valu from method
 # akti method theke kivabe value return kora jai that’s means Returning value from method 
 
 Example:
@@ -346,8 +346,8 @@ That’s menas user define method.
 
 
 
-OOP 
-Static: 
+# OOP 
+# Static: 
 Why I am use to static keyword.
 Static keyword used to memory management. Static keyword use korar fole amara amder memory save korte pari. 
 
@@ -379,8 +379,8 @@ but static hole static method er moddhe declare kora jabe. Static variable hole 
 
 
 
-OOP - 9
-Static variable: part 1
+# OOP - 9
+# Static variable: part 1
 1.	If I any variable declare to static , that’s means final . non editable. 
 Static String uniName = “khulna Universitty”
 2.	No need for assign constructer parameter. 
@@ -437,8 +437,8 @@ public class Student {
 }
 
 
-OOP - 10
-Static variable: part 2
+# OOP - 10
+# Static variable: part 2
 1.	When a use to static variable must declare before to variable – static
 static String uName = “DIU”
 
@@ -477,8 +477,8 @@ public class Student {
 
 
 
-OOP - 11
-Static variable: part 3
+# OOP - 11
+# Static variable: part 3
 1.	Non static variable declare for take an another memory space.
 int count = 0; // variable declare
 Student (){
@@ -534,8 +534,8 @@ Total student 3
 
 
 
-OOP : 12
-Static Method.
+# OOP : 12
+# Static Method.
 
 
 1.	Static method declare korte no need for object –  must need for a class.
@@ -597,8 +597,8 @@ public class Student {
 
 
 
-OOP - 13
-Static method Restrictions
+# OOP - 13
+# Static method Restrictions
  
 
 1.	 Static method er moddhe kono -  non static method , non static variable with every things non static kisui declare kora jabena  -  static method er moddhe.
@@ -654,8 +654,8 @@ public class Student {
 
 
 
-OOp -14
-Static Block
+# OOp -14
+# Static Block
 
 1.	Static variable ke intilize ba value set korar jonno amara static block use korboo.
 
@@ -745,8 +745,8 @@ public class Student {
 
 
 
-OOp -14
-Types of variable
+# OOp -14
+# Types of variable
 1.	Local variable. – method er moddhe assign .
 2.	Static/class variable. – static keyeword assign hole.
 3.	Instance variable – class er modhe but method er moddhe noy abar static declare o noy take instance variable bole.
@@ -760,8 +760,8 @@ Types of variable
  
 
 
-OOP – 15
-Problem solving
+# OOP – 15
+# Problem solving
 
  
 
@@ -803,8 +803,8 @@ public class Box {
     }
 }
 
-OOP – 16
-Instance variable hiding
+# OOP – 16
+# Instance variable hiding
 
 1.	this.instance  variable use korle instance variable hiding hoyna, local variable kase.
 
@@ -843,8 +843,8 @@ System.out.println(Math.log(2));
 
 
 
-OOP – 18
-Method Overloading
+# OOP – 18
+# Method Overloading
 
  
 
@@ -877,8 +877,8 @@ Point overloading:
 2.	Parameter list are different
 3.	Inside the same class. – akoi class er moddhe.
 
-OOP – 19
-Automatic Type Conversation 
+# OOP – 19
+# Automatic Type Conversation 
 
 
 OOP – 20
@@ -890,8 +890,8 @@ Please see the video… 
 
 
 
-OOP – 21
-Java Argument Passing
+# OOP – 21
+# Java Argument Passing
 
 1.	 All are primitive data storage to stack value.
 
@@ -901,7 +901,7 @@ Java Argument Passing
 
 
 
-Call by value: 01 
+# Call by value: 01 
 1.	Shdharonoto amra jokon akta method theke onno akta mehod e primitive data type argument er maddhome pass kore thaki , tokon orginal value change hobena.
 
 2.	Orthat- actual parameter theke formal parameter data  passing kori, tokon actual parameter er original valur man change hobena ….@
@@ -911,7 +911,7 @@ Actual parameter not changeable
 4.	original value kokono change hoyna that actual parameter er value change hoyna .
 
 
-Call By Reference:02
+# Call By Reference:02
 1.	 Class create to call by reference. With string name.
 
 2.	Akti method declare korsi change name, jeta class er object create korse. callByReference holo class r r2 holo object..  
@@ -923,8 +923,8 @@ Call By Reference:02
 5.	Call by value te originally value change hoyna , but call by reference a originally value change hoy.
 
 
-        OOP – 22
-Variable Length argument: vargs
+      #   OOP – 22
+# Variable Length argument: vargs
 
 
 1.	Variable length arguments er madhome akadhik argument data passing korte parbo, aktai method create kore. 
@@ -936,8 +936,8 @@ Variable Length argument: vargs
 Code:- 
 
 
-OOP – 23
-Recursion
+# OOP – 23
+# Recursion
 
 Recursion:- j method nije nijeke call kore take Recursion, Recursive function bola hoye thake.
 Base case:- infinite call cholte thakbe tai call thamonor jonno base case use korbo.
@@ -953,15 +953,15 @@ Recursive call:- else{
  
 Code: recursive function…
  
-OOP – 24
-Iteration vs. Recursion
+# OOP – 24
+# Iteration vs. Recursion
  
 Code : coding code.
  
 
 
-OOP -25
-important Tutorial Encapsulation
+# OOP -25
+# important Tutorial Encapsulation
 4 types for Access modifier. Method/class er age bose . birer kono class ke access for use
  
  
@@ -1080,8 +1080,8 @@ public class Encap {
 
 
 
-OOP : 27
-Important of Inheritance
+# OOP : 27
+# Important of Inheritance
 
 Inheritance:-  akta parent class . akta child class ke extends korbe ter properties gulo paoar jonno
 
@@ -1257,8 +1257,8 @@ int age;
 
 
 
-OOP 29 
-Inheritance Private Member
+# OOP 29 
+# Inheritance Private Member
 1.	 Discuss to how to private member inherit.
 
 2.	 Honestly any class er private num inherit kora jaina. Cause , private mane oi class er jonno.  resection do it.
@@ -1363,8 +1363,8 @@ public class IPMain {
 
 
 
-OOP – 30
-Types of Inheritance:
+# OOP – 30
+# Types of Inheritance:
 
 
 
@@ -1403,8 +1403,8 @@ Sob gulo class A class ke inherit korbe that’s means
 
 
 
-OOP  - 31
-Method Overriding
+# OOP  - 31
+# Method Overriding
 
 1.	Relation of method
 
@@ -1529,8 +1529,8 @@ public class MethodMain {
     }
 }
 
-OOP -32
-Method overloading & Method Overriding
+# OOP -32
+# Method overloading & Method Overriding
 
 
 
@@ -1574,8 +1574,8 @@ Multiple Inheritance
 
 
 
-OOP – 33
-Super Class use to call instance Variables
+# OOP – 33
+# Super Class use to call instance Variables
 1.	Super class using kora hoy , method variable, constructer  a gulo ke refer korar jonno.
   
 
@@ -1598,7 +1598,7 @@ Super Class use to call Method
 
 
 
-Java OOP -35
+# Java OOP -35
 Super class use to Call Constructer
 
 1.	Super constructer call dibo , tai constructer create korte hobe.
@@ -1611,7 +1611,7 @@ Super class use to Call Constructer
 
 
 
-OOP - 36
+# OOP - 36
 Super keyword
 1.	Supper keyword to first  create a constructer.
 2.	Constructer call using super();
@@ -1754,7 +1754,7 @@ Teacher t2 = new Teacher("Suzal",25,"JMI");
 t2.display();
 
 }
-OOP – 37
+# OOP – 37
 This keyword ();
 
 1.	 Local variable priorty beshi tai instance variable hide korar jonno , instance variable er age this keyword kora jai. this.name = name;
@@ -1820,8 +1820,9 @@ Final keyword last
 2.	Blank variable can’t initialize, if I initialize doing in constructer.
 3.	Variable name declare static with final. But there is no initialize. this call of static final variable.
 4.	Static method declare  with static block. Static{ }
-OOP – 39(week) 
-POLYMORPHISM
+
+# OOP – 39 
+# POLYMORPHISM
 
 # Polymorphism   hose amon akta mechanisom , jekhane parent class er ref value k sub class er object gulo ke ref korte pare.
 
@@ -1859,8 +1860,8 @@ This call by dynamic dispatch.
 
 
 
-OOP -39
-Run time Polymorphism
+# OOP -39
+# Run time Polymorphism
 
 public static void main(String args[]){
     /*
@@ -1924,8 +1925,8 @@ public static void main(String args[]) {
 
 
 
-OOP – 40
-Java Abstraction
+# OOP – 40
+# Java Abstraction
 # Implementation  ti hiding thakbe , functionality ta user ke show korbe  - this call Abstraction. 
 # 02 type of java abstraction: 
 1.	Abstract class (0 to 100%) user wish
@@ -1937,7 +1938,7 @@ Java Abstraction
 
 
 # Abstract class: 
-Must be declare before the class abstract.
+# Must be declare before the class abstract.
 
 
 
@@ -1957,14 +1958,14 @@ Must be declare before the method abstract.
 
 
 
-#Abstract Class:-
+# Abstract Class:-
 1.	abstract class er moddhe non abstract method & abstract method 02 toi thakte parbe. Ei jonno puropuri abstract kora possible.
 2.	 Non abstract class er moddhe abstract method kisutei thakte parbena.
 3.	Kono method abstract declare korle class o abstract declare korte hobe.দ
 
 
 
-#implementation:-
+# implementation:-
 1.	send message method ti ke Rahim and Karim 02 joni extends korbe.
 2.	Jokon Rahim and Karim method ti ke extends korbe tokon must be create overridden method .
 3.	Class er vitore abstract method tahakle must be overridden.
@@ -2000,14 +2001,14 @@ Abstract rules: -
 4.	Jodi kono abstract class extends kori , tahole abstract class er sobgulo method overridden korte hobe.
 5.	 Jodi overridden na kori tahole sei class er abstract declare korte hobe.
 
-OOP – 41
-Abstract Class practical
+# OOP – 41
+# Abstract Class practical
 https://gist.github.com/uzzalmondalcse/b6aae97558da987dffc368804e7bf743
 
 
 
 
-OOP – 42
+# OOP – 42
 Interface
 1.	 Interface is a fully abstract.
 2.	 An Interface is a collection of abstract method;
@@ -2128,7 +2129,7 @@ public class Main {
 
 
 
-OOP – 43 ###
+# OOP – 43 
 Class multiple inheritance support  korena.
 Interface multiple inheritance support kore.
 
@@ -2224,8 +2225,8 @@ public class TestMain {
 
 
 
-OOP: 44
-Class and Interface
+# OOP: 44
+# Class and Interface
 
 Class and interface similar formula:- 
 1.	Interface and class define to any method..
@@ -2264,7 +2265,7 @@ Interface vs Abstract Class: - -
 
 
 
-OOP  : 45
+# OOP  : 45
 Package Tutorial
 
 
@@ -2287,8 +2288,8 @@ Package Tutorial
 
 
 
-OOP – 46
-Access Modifire
+# OOP – 46
+# Access Modifire
 
 Public :- public declare korle akoi package  , class and other package use korte parbo. 
 There is no problem show in session.
@@ -2332,8 +2333,8 @@ default : - just access  to packaging .
 
 
 
-OOP – 46
-Type Casting
+# OOP – 46
+# Type Casting
 
 Implicity type custing: - 
 
@@ -2396,14 +2397,14 @@ Upcasting:- and down casting.
 
 
 
-OOOP 47(important)
-Anonymous class
+# OOOP 47(important)
+# Anonymous class
 Anonymous call hose amon akti class jar kono name ei thakbena.  To sei class kano use korbo. ?
 Runtime er somoy kono akta class ba akta method ba akta interface er method  ke override korte chai.  Se khettre amder ei anonymous class help korbe. 
  
 Then obj er maddhome display method call korle runtimer somoy update hobe…
-OOP – 48
-Exception and Handballing (week).
+# OOP – 48
+# Exception and Handballing (week).
 Exception: Run time a j error ta pai seta holo exception handballing.  Program make korlam make korar por kono error daklam na , but jokon run korbo , tokon Jodi error ta show korte chai tokon amake exception show korte hobe. 
 Exception handaling tools:- 
 
@@ -2437,9 +2438,8 @@ Exception handaling tools:-
 
  
 
-
-					OOP- 49
-				Decimal Number Formatting		
+# OOP- 49
+# Decimal Number Formatting		
 
 public class DecimalFormating {
     public static void main(String args[]){
@@ -2463,8 +2463,8 @@ public class DecimalFormating {
 
 
 
-OOP – 51
-To String (); (important)
+# OOP – 51
+# To String (); (important)
 Object class er method toString(); method ke call korte hobe.   Automatically overrite to  tostring method and method overriding.
 package MasterOOPBestJava.ToString_43;
 
@@ -2509,8 +2509,8 @@ public class PersonMain {
 }
 
 
-OOP – 52
-String comparison
+# OOP – 52
+# String comparison
 
 Primitive data type err jonno -   == operator.
 Object er jonno ba  - equals(); method use kora better.
@@ -2537,8 +2537,8 @@ Equal() – method kaj korbe content niye
 
 
 
-OOP – 53
-Link List(Important)
+# OOP – 53
+# Link List(Important)
 
 Array List : - Data store kore daynamic array er maddhome.
 Array list :- ArrayList better for sorting and accessing data. 
@@ -2563,8 +2563,8 @@ Array list :- ArrayList better for sorting and accessing data.
 
 
 
-OOP – 54
-Hash Map(Important)
+# OOP – 54
+# Hash Map(Important)
 Array and list gulo index er upore data store kore.
 Hash map ki kore key valuer upore data store kore rakhe.  Akta key thakbe , key er under a akta value thakbe.
 
@@ -2574,8 +2574,8 @@ Hash map ki kore key valuer upore data store kore rakhe.  Akta key thakbe , key 
 	
 
 
-OOP – 55
-Hash Set
+# OOP – 55
+# Hash Set
 Data gulo store  kora hoy hash table er maddhome. 
 Hash set duplicate value niye kaj korena.
 
@@ -2583,8 +2583,8 @@ Hash set duplicate value niye kaj korena.
 
 
 
-OOP – 56
-Create file directory
+# OOP – 56
+# Create file directory
  
 
 
@@ -2597,8 +2597,8 @@ file create a directory.. how to file created..
 
 
 
-OOP – 57
-How to written File
+# OOP – 57
+# How to written File
 
 
 
@@ -2614,8 +2614,8 @@ file delete and exist method call(); -
 
 
 
-OOP: 58
-How to write into file..
+# OOP: 58
+# How to write into file..
 
 How to Read file.
 
