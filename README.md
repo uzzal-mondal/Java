@@ -170,7 +170,7 @@ Step: 2
 
 ```
 
-.................................
+***
 
 
 # OOP : 5
@@ -245,9 +245,11 @@ public class Teacher{
 # OOP : 6
 # Constructer Overloading
 
-1.	Default cons -> two parameter cons ->Three parameter cons-> that’s means constructer overloading
+*	Default cons -> two parameter cons ->Three parameter cons-> that’s means constructer overloading
 
+```
 Exam: 
+
 Step: 1
 //constructer overloading
 
@@ -260,7 +262,10 @@ Step: 1
   Teacher teacher2 = new Teacher("Suzal","Sociology",28);
   teacher2.displayInfo();
 
+
+
 Step:2
+
 // constructer overloading
 
 //create variable
@@ -298,16 +303,18 @@ void displayInfo(){
     System.out.println();
 }
 
+```
 
-
-
+***
 
 
 # OOP - 7
-# Returning valu from method
-# akti method theke kivabe value return kora jai that’s means Returning value from method 
+## Returning valu from method
+#### akti method theke kivabe value return kora jai that’s means Returning value from method 
 
+```
 Example:
+
  Step – 1
 // akta method theke kivabe value return kora jai
 
@@ -318,6 +325,7 @@ Example:
  }
 
 Step – 2
+
 ReturningValuefromMethod rt = new ReturningValuefromMethod();
 rt.square(5);
 System.out.println("Res "+rt.square(7));
@@ -327,27 +335,31 @@ ReturningValuefromMethod rt1 = new ReturningValuefromMethod();
 rt.square(5);
 System.out.println("Res "+rt1.square(10));
 
-OOP – 8
-Between Constructer and Method
+```
 
-1.	Constructer must be initialize class name.
-2.	Mthod er j kono name create korte pari.
+***
+
+# OOP – 8
+## Between Constructer and Method
+
+*	Constructer must be initialize class name.
+*	Mthod er j kono name create korte pari.
 That’s menas user define method.
 
-3.	Constructer implicity no need call for object.
-4.	Method explicity must call for object.
+*	Constructer implicity no need call for object.
+*	Method explicity must call for object.
  
 
 
-5.	Constructer must not return type.
-6.	Method must be return type at least void.
+*	Constructer must not return type.
+*	Method must be return type at least void.
 
-7.	Constructer maddhome object k initialize korte pari.
-8.	Method er maddhome ter behavior/properties gulo Prokash korte pari
+*	Constructer maddhome object k initialize korte pari.
+*	Method er maddhome ter behavior/properties gulo Prokash korte pari
  
 
 
-
+***
 
 
 # OOP 
