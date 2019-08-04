@@ -2,12 +2,12 @@
 
                                 #OOP
 # Tutorial – 1 -> Class & Object.
-#Class:  class holo akti templeate jar maddhome amara onek gulo template create  korte pari.
+1.Class:  class holo akti templeate jar maddhome amara onek gulo template create  korte pari.
 
 
 
  
-#Class - Class holo somistogoto vabe onekjoner somonoy: 
+*	Class - Class holo somistogoto vabe onekjoner somonoy: 
 #Class - Class holo akti Template jar theke, ba oi class er properties gulo diye  amara  Object create korte pari.  
 
 #Object - Class a onotorvukto properites gulo holo object. 
