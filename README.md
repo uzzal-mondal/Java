@@ -21,8 +21,8 @@
 
 # Learn class & object: -  
 *	Create class > class er moddhe variable declare > sei class er object onno class a declare  korte hoy 
-		*	object er maddhome kivabe akti class er variable use korte hoy.
-		*	Akti class er object create kore , sei class er properties gulo use korlam. Oi class er Multi properties o use korte pari oi akoi class er template er maddhome.
+	*	object er maddhome kivabe akti class er variable use korte hoy.
+	*	Akti class er object create kore , sei class er properties gulo use korlam. Oi class er Multi properties o use korte pari oi akoi class er template er maddhome.
 
 
 
