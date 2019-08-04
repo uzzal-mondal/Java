@@ -118,6 +118,7 @@ teacher1.displayInfo();
 *	constructer kaj holo object ke initialize kora.
 
  
+``` 
 Step : 1
 Teacher teacher1 = new Teacher("Anisul islma","Cse",30);
 teacher1.displayInfo();
@@ -162,7 +163,7 @@ Step: 2
 
  }
 
-
+```
 
 
 
